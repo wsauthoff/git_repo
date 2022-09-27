@@ -1,5 +1,7 @@
 """
 A script to practice using functions.
+
+A really dumb script writen by Peiyao.
 """
 def add_numbers(num1, num2):
     """Add two things together"""
