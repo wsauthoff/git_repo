@@ -64,7 +64,6 @@ target/
 # pycharm
 .idea
 
-
 # linux/osx garbage
 *~
 *.swp
