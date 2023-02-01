@@ -1,3 +1,3 @@
 # A list of students who win.
 
-(your name goes here)
+[Wilson Sauthoff](github.com/wsauthoff)
