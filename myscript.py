@@ -1,7 +1,7 @@
 """
 A script to practice using functions.
 
-A brilliant script written by Derrick. 
+A brilliant script written by Derrick.  
 
 A really dumb script writen by Peiyao.
 """
